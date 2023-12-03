@@ -595,7 +595,7 @@ header {
     --flex-gap: 2rem;
     --bg-image: url("images/bg-pattern-how-we-work-desktop.svg");
     --bg-position: top right;
-    padding: 4.5rem 4.5rem;
+    padding: 4.5rem;
     margin-bottom: 9rem;
     justify-content: space-between;
     align-items: center;
